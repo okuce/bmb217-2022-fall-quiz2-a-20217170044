@@ -1,3 +1,4 @@
+#Yusuf ÇATALCA 20217170044 Agrubu
 class Otobus:
     """Otobus bilet satis takip sinifi"""
     Otobus1= "06T9876"
